@@ -19,7 +19,7 @@ gulp.task('autoprefixer', function () {
 });
 
 var files = [
-    'scripts/vendor/jquery.min.js',
+    'scripts/vendor/jquery.js',
     'scripts/_app.js',
     'scripts/**/_*.js'
 ];
